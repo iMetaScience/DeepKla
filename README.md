@@ -41,3 +41,5 @@ For training:
 python ../SEL_CNN_BiGRU_Attention.py (Computational time: 6453.411189s)
 
 Note: You need to change fastafile, modelfile, pklfile, and model_save's name on your own.
+
+Hao Lv, Fu-Ying Dao, Hao Lin. 2022. DeepKla: An attention mechanism-based deep neural network for protein lysine lactylation site prediction. iMeta 1: e11. https://doi.org/10.1002/imt2.11
